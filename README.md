@@ -37,7 +37,7 @@ I’m a **Backend Developer** specializing in PHP, Laravel, and MySQL, and I am 
 
 ---
 
-### ✍️ Dev Quote
+### 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
