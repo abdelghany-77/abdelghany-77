@@ -5,11 +5,11 @@ I’m a **Backend Developer** specializing in PHP, Laravel, and MySQL, and I am 
 
 🔭 I’m currently working on enhancing my expertise in **RESTful APIs** and **database optimization**.  
 🌱 I’m learning **cloud technologies** .  
-📫 How to reach me: **moabdelghany77@gmail.com**  
 
 ---
 
 ## 🌐 Socials:
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:moabdelghany77@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohamed-abdelghany-3a53351b7) 
 [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](https://github.com/abdelghany-77) 
 [![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?logo=firefox&logoColor=#FF7139)](https://abdelghany-77.github.io) 
