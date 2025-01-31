@@ -10,7 +10,7 @@ I’m a **Backend Developer** specializing in PHP, Laravel, and MySQL, and I am 
 
 ## 🌐 Socials:
 <p align="left">
-  <a href="mailto:moabdelghany77@gmail.com" style="margin-right: 10px;">
+  <a href="mailto:moabdelghany77@gmail.com?subject=Contact%20from%20Portfolio&body=Hello%20Mohamed," style="margin-right: 10px;">
     <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" alt="Email" height="40">
   </a>
   <a href="https://drive.google.com/drive/folders/1Q8dhVO7dVE5Fo1jYZQWwS8w1p1xdoQOs" style="margin-right: 10px;">
