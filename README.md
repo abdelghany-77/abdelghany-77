@@ -1,10 +1,10 @@
 ## Hi there 👋
 
-# 💫 About Me:
+#  About Me:
 I’m a **Backend Developer** specializing in PHP, Laravel, and MySQL, and I am currently pursuing my Bachelor’s in Computer Science at Cairo University. I’m passionate about building **scalable, secure, and high-performance web applications** and constantly improving my skills in backend engineering. I thrive in collaborative environments and enjoy solving complex problems with clean, maintainable code.
 
-🔭 I’m currently working on enhancing my expertise in **RESTful APIs** and **database optimization**.  
-🌱 I’m learning **cloud technologies** .  
+ I’m currently working on enhancing my expertise in **RESTful APIs** and **database optimization**.  
+ I’m learning **cloud technologies** .  
 
 ---
 
