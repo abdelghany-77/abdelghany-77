@@ -4,7 +4,6 @@
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=abdelghany-77&style=for-the-badge&color=blue" alt="Profile Views"/>
-  <img src="https://img.shields.io/github/followers/abdelghany-77?style=for-the-badge&color=blue" alt="Followers"/>
 </div>
 
 ---
