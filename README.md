@@ -13,19 +13,6 @@
 
 I'm a **Backend Developer** with a passion for building robust, scalable web applications. As a Computer Science graduate, I specialize in **PHP**, **Laravel**, and **MySQL**, with a strong focus on creating efficient RESTful APIs and optimizing database performance.
 
-```php
-<?php
-class Mohamed extends Developer {
-    public function getCurrentFocus(): array {
-        return [
-            'role' => 'Backend Developer',
-            'technologies' => ['PHP', 'Laravel', 'MySQL', 'RESTful APIs'],
-            'currentlyLearning' => ['Cloud Technologies', 'Microservices'],
-            'goals' => ['Database Optimization', 'System Architecture']
-        ];
-    }
-}
-```
 
 ### 🎯 Current Focus
 - 🔭 Enhancing expertise in **RESTful APIs** and **database optimization**
