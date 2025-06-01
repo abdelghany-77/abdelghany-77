@@ -97,11 +97,5 @@ I'm a **Backend Developer** with a passion for building robust, scalable web app
 ---
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-</div>
-
----
-
-<div align="center">
   <i>⭐️ From <a href="https://github.com/abdelghany-77">Mohamed Abdelghany</a> - Happy Coding! 🚀</i>
 </div>
