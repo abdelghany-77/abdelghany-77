@@ -90,5 +90,5 @@
 ---
 
 <div align="center">
-  <i>⭐️ From <a href="https://github.com/abdelghany-77">Mohamed Abdelghany</a> - Happy Coding! 🚀</i>
+  <i>⭐️ From <a href="https://github.com/abdelghany-77">Mohamed Abdelghany</a> </i>
 </div>
