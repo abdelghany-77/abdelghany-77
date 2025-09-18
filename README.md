@@ -10,7 +10,7 @@
 
 ## 🚀 About Me
 
-I'm a **Backend Developer** with a passion for building robust, scalable web applications. As a Computer Science graduate, I specialize in **PHP**, **Laravel**, and **MySQL**, with a strong focus on creating efficient RESTful APIs and optimizing database performance.
+  I'm a **Backend Developer** with a passion for building robust, scalable web applications. As a Computer Science graduate, I specialize in **PHP**, **Laravel**, and **MySQL**, with a strong focus on creating efficient RESTful APIs and optimizing database performance.
 
 
 ### 🎯 Current Focus
@@ -58,13 +58,6 @@ I'm a **Backend Developer** with a passion for building robust, scalable web app
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=abdelghany-77&theme=dracula&area=true&hide_border=true" alt="Contribution Graph"/>
-</div>
-
----
-
-## 🏆 GitHub Trophies
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=abdelghany-77&theme=dracula&no-frame=false&no-bg=false&margin-w=4&row=1" alt="GitHub Trophies"/>
 </div>
 
 ---
