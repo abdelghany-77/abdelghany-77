@@ -1,126 +1,304 @@
-# 👋 Hi, I'm Mohamed Abdelghany
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=3B82F6&center=true&vCenter=true&random=false&width=600&lines=Hi+I'm+Mohamed+Ahmed+Abdelghany;Backend+Developer+%7C+Problem+Solver;Building+Scalable+Web+Solutions" alt="Typing SVG" />
+</div>
 
-I'm a **Backend Developer** passionate about building robust, scalable web applications. As a Computer Science graduate, I specialize in **PHP**, **Laravel**, **Node.js**, and **MySQL**, crafting efficient RESTful APIs and optimizing database performance.
+## About Me
 
----
+```javascript
+const mohamed = {
+  location: "Cairo, Egypt 🇪🇬",
+  role: "Backend Developer",
+  education: "Computer Science Graduate",
+  currentFocus: "ITI Full Stack Web Development Program",
 
-## 🎓 Learning & Growth
+  code: ["PHP", "JavaScript", "Python", "TypeScript"],
+  technologies: {
+    backend: ["Laravel", "Node.js", "Express", "RESTful APIs"],
+    frontend: ["React", "Angular", "HTML/CSS", "Bootstrap"],
+    databases: ["MySQL", "SQLite"],
+    devOps: ["Docker", "Linux", "Apache"],
+    tools: ["Git", "Postman", "VS Code", "WordPress"],
+  },
 
-### ITI Full Stack Web Development Scholarship (PHP Track)
-I'm currently expanding my skills through the **Information Technology Institute's Full Stack Web Development** program using PHP/NodeJS. This comprehensive journey covers:
+  architecture: ["MVC", "RESTful", "OOP"],
 
-- **Backend Development with PHP**
-  - Core PHP fundamentals and advanced techniques
-  - Laravel framework & advanced patterns
-  - PHP CMSs and modern development practices
-  - Client-side technologies (HTML5, CSS3, Bootstrap, jQuery)
-  - Frontend frameworks (Angular, React)
+  currentlyLearning: "Full Stack Development & AI Fundamentals",
+  workingOn: ["Medical Booking System", "ITI Notes Platform"],
+  askMeAbout: ["Laravel", "React", "Database Design", "APIs"],
 
-- **Computing Foundations**
-  - Operating Systems fundamentals
-  - Computer Networks & Cybersecurity principles
-  - Unit Testing concepts
+  funFact: "I build stuff, break it, then build it better 🔧",
+};
+```
 
-- **System Administration**
-  - Linux administration and system configurations
-  - Apache Web Server setup and optimization
-  - Docker containerization basics
+<br/>
 
-- **Database Management**
-  - Database design and fundamentals
-  - MySQL optimization and best practices
+## Featured Projects
 
-- **Professional Skills**
-  - Effective communication and presentation
-  - Networking and collaboration
-  - Freelancing essentials
+<div align="center">
 
----
+<table>
+<tr>
+<td width="50%">
 
-## 🎯 Current Focus
+### <img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/solid/hospital.svg" width="20" height="20" alt="Medical"/> [MediBokking](https://github.com/abdelghany-77/MediBokking)
 
-- 🔭 Deepening expertise in **RESTful APIs** and **database optimization**
-- 💻 Expanding into **Node.js backend development** for modern full-stack solutions
-- 👯 Actively seeking collaboration on **open-source PHP/Laravel/Node.js projects**
-- 💡 Contributing to real-world projects that make an impact
+A medical appointment booking system with JavaScript backend
 
----
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 
-## 🛠️ My Tech Stack
+</td>
+<td width="50%">
 
-### **Backend & Languages**
+### <img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/solid/hospital-user.svg" width="20" height="20" alt="Clinic"/> [Clinic System](https://github.com/abdelghany-77/clinic-system)
+
+TypeScript-based clinic management solution
+
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### <img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/solid/cart-shopping.svg" width="20" height="20" alt="E-Commerce"/> [E-Commerce System](https://github.com/abdelghany-77/E-Commerce-System)
+
+Full-featured online shopping platform built with Laravel
+
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
+
+</td>
+
+<td width="50%">
+
+### <img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/solid/mosque.svg" width="20" height="20" alt="Islamic"/> [Tazkeer](https://github.com/abdelghany-77/tazkeer)
+
+Reminder Islamic application with JavaScript
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) [🔗 Live Demo](https://abdelghany-77.github.io/tazkeer/)
+
+</td>
+
+</tr>
+<tr>
+<td width="50%">
+
+### <img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/solid/book.svg" width="20" height="20" alt="Notes"/> [ITI Notes](https://github.com/abdelghany-77/ITI-Notes)
+
+Study notes and resources platform for ITI students
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) [🔗 Live Demo](https://abdelghany-77.github.io/ITI-notes/)
+
+</td>
+<td width="50%">
+
+### <img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/solid/wallet.svg" width="20" height="20" alt="Finance"/> [Expense Tracker](https://github.com/abdelghany-77/Expense-Tracker)
+
+Personal finance management application
+
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### <img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/solid/chart-line.svg" width="20" height="20" alt="Stocks"/> [Stocks Tracker](https://github.com/abdelghany-77/stocks-tracker)
+
+Stock market tracking application
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) [🔗 Live Demo](https://abdelghany-77.github.io/stocks-tracker/)
+
+</td>
+<td width="50%">
+
+### <img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/solid/users.svg" width="20" height="20" alt="Collaboration"/> [Real-time Collaboration Tool](https://github.com/abdelghany-77/Real-time-Collaboration-Tool)
+
+JavaScript-based real-time collaboration application
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+
+</td>
+
+</tr>
+</table>
+
+</div>
+
+<br/>
+
+## Tech Stack & Tools
+
+<div align="center">
+
+### Languages
+
 ![PHP](https://img.shields.io/badge/PHP-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![Node.js](https://img.shields.io/badge/Node.js-%23339933.svg?style=for-the-badge&logo=node.js&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-%2307405e.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
-### **Frontend Technologies**
+
+### Backend & Frameworks
+
+![Laravel](https://img.shields.io/badge/Laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-%23339933.svg?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
+![RESTful API](https://img.shields.io/badge/RESTful-API-02569B?style=for-the-badge&logo=rest&logoColor=white)
+
+### Frontend Technologies
 ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Angular](https://img.shields.io/badge/Angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![jQuery](https://img.shields.io/badge/jQuery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
-### **Frontend Frameworks**
-![Angular](https://img.shields.io/badge/Angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
-![React](https://img.shields.io/badge/React-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=black)
+### Databases
 
-### **Database & Data Management**
 ![MySQL](https://img.shields.io/badge/MySQL-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![Database Design](https://img.shields.io/badge/Database%20Design-%23336791.svg?style=for-the-badge)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 
-### **Server & DevOps**
-![Linux](https://img.shields.io/badge/Linux-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=black)
+### DevOps & Tools
+
+![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Apache](https://img.shields.io/badge/Apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-%232496ED.svg?style=for-the-badge&logo=docker&logoColor=white)
-
-### **Development Tools & Concepts**
 ![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![RESTful APIs](https://img.shields.io/badge/RESTful%20APIs-%230072C6.svg?style=for-the-badge)
-![MVC](https://img.shields.io/badge/MVC%20Architecture-%23000000.svg?style=for-the-badge)
-![OOP](https://img.shields.io/badge/OOP-%23007ACC.svg?style=for-the-badge)
-![Unit Testing](https://img.shields.io/badge/Unit%20Testing-%23009485.svg?style=for-the-badge)
 
-### **Cybersecurity & Networking**
-![Cybersecurity](https://img.shields.io/badge/Cybersecurity-%23DD0000.svg?style=for-the-badge)
-![Computer Networks](https://img.shields.io/badge/Computer%20Networks-%230066CC.svg?style=for-the-badge)
+### Concepts & Methodologies
 
-### **Operating Systems**
-![Linux Administration](https://img.shields.io/badge/Linux%20Administration-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=black)
-![System Administration](https://img.shields.io/badge/System%20Administration-%23333333.svg?style=for-the-badge)
+![OOP](https://img.shields.io/badge/OOP-%23007ACC.svg?style=for-the-badge&logoColor=white)
+![MVC](https://img.shields.io/badge/MVC-%23000000.svg?style=for-the-badge&logoColor=white)
+![Agile](https://img.shields.io/badge/Agile-%23009485.svg?style=for-the-badge&logoColor=white)
+![Unit Testing](https://img.shields.io/badge/Unit%20Testing-%2325A162.svg?style=for-the-badge&logoColor=white)
+
+</div>
+
+<br/>
+
+## 🎓 Education & Training
+
+<table align="center">
+<tr>
+<td align="center" width="50%">
+
+### ITI Full Stack Development
+
+**Information Technology Institute**
+
+Intensive program covering:
+
+- Advanced PHP & Laravel Development
+- Modern JavaScript & Node.js
+- Frontend Frameworks (React, Angular)
+- Database Design & Optimization
+- Linux System Administration
+- DevOps with Docker
+- Cybersecurity Fundamentals
+
+</td>
+<td align="center" width="50%">
+
+### 🎓 Computer Science
+
+**Bachelor's Degree**
+
+Foundation in:
+
+- Data Structures & Algorithms
+- Object-Oriented Programming
+- Database Management Systems
+- Computer Networks
+- Operating Systems
+- Software Engineering
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+## GitHub Statistics
+
+<div align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=abdelghany-77&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=abdelghany-77&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</div>
+
+<div align="center">
+  <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdelghany-77&layout=compact&langs_count=10&theme=tokyonight&hide_border=true&exclude_repo=repo1,repo2" alt="Top Languages" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=abdelghany-77&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph" />
+</div>
+
+<br/>
+
+### GitHub Achievements
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=abdelghany-77&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" alt="GitHub Trophies" />
+</div>
+
+<br/>
+
+## Learning Journey
+
+**What I've been exploring lately:**
+
+- Building production-ready applications with Laravel & React
+- Healthcare management systems and real-time booking solutions
+- Introduction to AI and machine learning concepts
+- Improving my TypeScript skills for better type safety
+- Containerization with Docker for consistent development environments
+
+**Resources I'm Creating:**
+
+- [ITI Study Notes](https://abdelghany-77.github.io/ITI-notes/) - Sharing what I learn at ITI
+
+<br/>
+
+## Let's Connect & Collaborate
+
+<div align="center">
+  
+I'm always open to interesting conversations and collaboration opportunities!
+
+<br/>
+
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:moabdelghany77@gmail.com?subject=Hello%20Mohamed&body=Hi%20Mohamed,%20I%20came%20across%20your%20GitHub%20profile...)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohamed-abdelghany-3a53351b7)
+[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=%23FF7139)](https://abdelghany-77.github.io)
+[![Resume](https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=google-drive&logoColor=white)](https://drive.google.com/drive/folders/1Q8dhVO7dVE5Fo1jYZQWwS8w1p1xdoQOs)
+
+<br/>
+
+### I'm Open To:
+
+- **Junior-level developer positions** - Ready to contribute and grow with a team
+- **Collaborating on real-world projects** - Always excited to learn from others
+- **Open source contributions** - Looking to give back to the community
+- **Learning opportunities** - Never stop improving
+- **Tech discussions** - Let's talk code, projects, or share experiences!
+
+</div>
+
+<br/>
 
 ---
 
-## 📊 GitHub Analytics
-
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=abdelghany-77&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdelghany-77&layout=compact&langs_count=8&theme=dracula"/>
-</div>
+  
+###  "First, solve the problem. Then, write the code." – John Johnson
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abdelghany-77&theme=dracula&hide_border=false" alt="GitHub Streak"/>
-</div>
+<br/>
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=abdelghany-77&theme=dracula&area=true&hide_border=true" alt="Contribution Graph"/>
-</div>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%"/>
 
----
+**Thanks for visiting! Feel free to ⭐ some repositories if you find them interesting!**
 
-## 🤝 Let's Connect
-
-<div align="center">
-  <a href="mailto:moabdelghany77@gmail.com?subject=Contact%20from%20GitHub&body=Hello%20Mohamed,">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://www.linkedin.com/in/mohamed-abdelghany-3a53351b7" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://abdelghany-77.github.io" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=%23FF7139" alt="Portfolio" />
-  </a>
-  <a href="https://drive.google.com/drive/folders/1Q8dhVO7dVE5Fo1jYZQWwS8w1p1xdoQOs" target="_blank">
-    <img src="https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=google-drive&logoColor=white" alt="Resume" />
-  </a>
 </div>
