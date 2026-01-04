@@ -1,26 +1,6 @@
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=3B82F6&center=true&vCenter=true&random=false&width=600&lines=Hi+I'm+Mohamed+Ahmed+Abdelghany;Backend+Developer+%7C+Problem+Solver;Building+Scalable+Web+Solutions" alt="Typing SVG" />
 </div>
-<!-- 
-## About Me
-
-I'm a **Backend Developer** from Cairo, Egypt 🇪🇬, passionate about building scalable web solutions. Currently enrolled in the **ITI Full Stack Web Development Program**, I specialize in **PHP/Laravel** and **JavaScript/Node.js** ecosystems.
-
-**What I Do:**
-- 🔧 Build RESTful APIs and backend systems with Laravel & Express
-- 💾 Design and optimize databases (MySQL, PostgreSQL, SQLite)
-- ⚛️ Create responsive frontends with React & Angular
-- 🐳 Deploy applications using Docker and Linux
-- 📚 Share knowledge through my [ITI Notes Platform](https://abdelghany-77.github.io/ITI-notes/)
-
-**Currently Working On:**
-- Medical appointment booking systems
-- E-commerce platforms
-- Real-time collaboration tools
-
-**Ask Me About:** Laravel, React, Database Design, RESTful APIs, or anything related to backend development!
-
-> *"I build stuff, break it, then build it better"* 🔧 -->
 
 <br/>
 
