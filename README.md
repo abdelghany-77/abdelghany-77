@@ -14,7 +14,8 @@
 
 ### <img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/solid/hospital.svg" width="20" height="20" alt="Medical"/> [MediBokking](https://github.com/abdelghany-77/MediBokking)
 
-A medical appointment booking system with JavaScript backend
+ A full-stack travel automation system using Playwright for browser automation, enabling automated hotel 
+bookings on Booking.com and flight reservations on Nouvelair.
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 
