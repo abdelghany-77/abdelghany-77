@@ -1,34 +1,26 @@
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=3B82F6&center=true&vCenter=true&random=false&width=600&lines=Hi+I'm+Mohamed+Ahmed+Abdelghany;Backend+Developer+%7C+Problem+Solver;Building+Scalable+Web+Solutions" alt="Typing SVG" />
 </div>
-
+<!-- 
 ## About Me
 
-```javascript
-const mohamed = {
-  location: "Cairo, Egypt 🇪🇬",
-  role: "Backend Developer",
-  education: "Computer Science Graduate",
-  currentFocus: "ITI Full Stack Web Development Program",
+I'm a **Backend Developer** from Cairo, Egypt 🇪🇬, passionate about building scalable web solutions. Currently enrolled in the **ITI Full Stack Web Development Program**, I specialize in **PHP/Laravel** and **JavaScript/Node.js** ecosystems.
 
-  code: ["PHP", "JavaScript", "Python", "TypeScript"],
-  technologies: {
-    backend: ["Laravel", "Node.js", "Express", "RESTful APIs"],
-    frontend: ["React", "Angular", "HTML/CSS", "Bootstrap"],
-    databases: ["MySQL", "SQLite"],
-    devOps: ["Docker", "Linux", "Apache"],
-    tools: ["Git", "Postman", "VS Code", "WordPress"],
-  },
+**What I Do:**
+- 🔧 Build RESTful APIs and backend systems with Laravel & Express
+- 💾 Design and optimize databases (MySQL, PostgreSQL, SQLite)
+- ⚛️ Create responsive frontends with React & Angular
+- 🐳 Deploy applications using Docker and Linux
+- 📚 Share knowledge through my [ITI Notes Platform](https://abdelghany-77.github.io/ITI-notes/)
 
-  architecture: ["MVC", "RESTful", "OOP"],
+**Currently Working On:**
+- Medical appointment booking systems
+- E-commerce platforms
+- Real-time collaboration tools
 
-  currentlyLearning: "Full Stack Development & AI Fundamentals",
-  workingOn: ["Medical Booking System", "ITI Notes Platform"],
-  askMeAbout: ["Laravel", "React", "Database Design", "APIs"],
+**Ask Me About:** Laravel, React, Database Design, RESTful APIs, or anything related to backend development!
 
-  funFact: "I build stuff, break it, then build it better 🔧",
-};
-```
+> *"I build stuff, break it, then build it better"* 🔧 -->
 
 <br/>
 
@@ -222,16 +214,6 @@ Foundation in:
 <br/>
 
 ## GitHub Statistics
-
-<div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=abdelghany-77&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=abdelghany-77&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</div>
-
-<div align="center">
-  <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdelghany-77&layout=compact&langs_count=10&theme=tokyonight&hide_border=true&exclude_repo=repo1,repo2" alt="Top Languages" />
-</div>
-
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=abdelghany-77&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph" />
 </div>
