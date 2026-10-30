@@ -12,7 +12,7 @@
 <tr>
 <td width="50%">
 
-### [Tazkeer](https://github.com/abdelghany-77/tazkeer)
+### [Tazkeer][https://abdelghany-77.github.io/tazkeer/]
 
 </td>
 <td width="50%">
@@ -29,7 +29,7 @@
 </td>
 <td width="50%">
 
-### [Personal finance management application](https://github.com/abdelghany-77/Expense-Tracker)
+### [Personal finance management application][https://abdelghany-77.github.io/Expense-Tracker]
 
 </td>
 </tr>
