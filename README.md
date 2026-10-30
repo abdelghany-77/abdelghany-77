@@ -12,86 +12,38 @@
 <tr>
 <td width="50%">
 
-### <img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/solid/hospital.svg" width="20" height="20" alt="Medical"/> [MediBokking](https://github.com/abdelghany-77/MediBokking)
-
- A full-stack travel automation system using Playwright for browser automation, enabling automated hotel 
-bookings on Booking.com and flight reservations on Nouvelair.
-
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+### [Tazkeer](https://github.com/abdelghany-77/tazkeer)
 
 </td>
 <td width="50%">
 
-### <img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/solid/hospital-user.svg" width="20" height="20" alt="Clinic"/> [Clinic System](https://github.com/abdelghany-77/clinic-system)
-
-TypeScript-based clinic management solution
-
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
+### [ordra](https://ordras.app)
 
 </td>
 </tr>
 <tr>
 <td width="50%">
 
-### <img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/solid/cart-shopping.svg" width="20" height="20" alt="E-Commerce"/> [E-Commerce System](https://github.com/abdelghany-77/E-Commerce-System)
-
-Full-featured online shopping platform built with Laravel
-
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
-
-</td>
-
-<td width="50%">
-
-### <img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/solid/mosque.svg" width="20" height="20" alt="Islamic"/> [Tazkeer](https://github.com/abdelghany-77/tazkeer)
-
-Reminder Islamic application with JavaScript
-
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) [🔗 Live Demo](https://abdelghany-77.github.io/tazkeer/)
-
-</td>
-
-</tr>
-<tr>
-<td width="50%">
-
-### <img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/solid/book.svg" width="20" height="20" alt="Notes"/> [ITI Notes](https://github.com/abdelghany-77/ITI-Notes)
-
-Study notes and resources platform for ITI students
-
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) [🔗 Live Demo](https://abdelghany-77.github.io/ITI-notes/)
+### [Clinic Management](https://github.com/abdelghany-77/clinic-system)
 
 </td>
 <td width="50%">
 
-### <img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/solid/wallet.svg" width="20" height="20" alt="Finance"/> [Expense Tracker](https://github.com/abdelghany-77/Expense-Tracker)
-
-Personal finance management application
-
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
+### [Personal finance management application](https://github.com/abdelghany-77/Expense-Tracker)
 
 </td>
 </tr>
 <tr>
 <td width="50%">
 
-### <img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/solid/chart-line.svg" width="20" height="20" alt="Stocks"/> [Stocks Tracker](https://github.com/abdelghany-77/stocks-tracker)
-
-Stock market tracking application
-
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) [🔗 Live Demo](https://abdelghany-77.github.io/stocks-tracker/)
+### [Stock market tracking application](https://github.com/abdelghany-77/stocks-tracker)
 
 </td>
 <td width="50%">
 
-### <img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/solid/users.svg" width="20" height="20" alt="Collaboration"/> [Real-time Collaboration Tool](https://github.com/abdelghany-77/Real-time-Collaboration-Tool)
-
-JavaScript-based real-time collaboration application
-
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+### [JavaScript-based real-time collaboration application](https://github.com/abdelghany-77/Real-time-Collaboration-Tool)
 
 </td>
-
 </tr>
 </table>
 
